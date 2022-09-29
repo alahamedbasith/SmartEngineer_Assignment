@@ -10,5 +10,5 @@ visit:www.ahamedbasith.com
 Iam pursuing UG in BE Computer Science and Engineering.I want jobs for my most interesting field in AI,Data Science,Machine Learning,Big Data,
 Statistics and Business.
 
-Here are my assingments in this respository,Iam already know some familiar topics in C.So,I only try pattern programming.Hereafter,I will upload
-remaining difficult topics in C.
+Here are my assingments in this respository,Iam already know some familiar topics in C.So,I only try pattern programming.Hereafter,I will learn
+and upload remaining difficult topics in C.
