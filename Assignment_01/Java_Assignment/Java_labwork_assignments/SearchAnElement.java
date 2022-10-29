@@ -27,5 +27,3 @@ public class SearchAnElement {
     }
   }
 }
-Footer
-© 2022 Gi
