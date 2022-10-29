@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AreaOfTriangle {
+public class area_triangle {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     System.out.print("Enter the width of the Triangle: ");
