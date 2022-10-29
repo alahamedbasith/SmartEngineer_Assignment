@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class OddOrEven {
+public class odd_even {
   public static void main(String[] args) {
     System.out.println("Enter an Integer number:"); 
     Scanner input = new Scanner(System.in); 
